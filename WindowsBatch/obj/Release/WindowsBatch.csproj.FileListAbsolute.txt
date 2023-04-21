@@ -1,0 +1,4 @@
+c:\users\etar125\documents\visual studio 2010\Projects\WindowsBatch\WindowsBatch\bin\Release\WindowsBatch.dll
+c:\users\etar125\documents\visual studio 2010\Projects\WindowsBatch\WindowsBatch\bin\Release\WindowsBatch.pdb
+c:\users\etar125\documents\visual studio 2010\Projects\WindowsBatch\WindowsBatch\obj\Release\WindowsBatch.dll
+c:\users\etar125\documents\visual studio 2010\Projects\WindowsBatch\WindowsBatch\obj\Release\WindowsBatch.pdb
